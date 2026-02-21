@@ -21,7 +21,7 @@ Interconnect, un operador de telecomunicaciones, busca identificar clientes en r
 ## 📁 2. Contenido del Repositorio
 
 - `customer_churn_prediction.ipynb` → Notebook completo con el pipeline end-to-end.  
-- `data/` → Estructura esperada de los archivos (o instrucciones para obtenerlos).  
+- `datasets` → Datasets utilizados.  
 - `README.md` → Documentación del proyecto.  
 
 ---
