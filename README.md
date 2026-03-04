@@ -1,6 +1,6 @@
 # 📊 Customer Churn Prediction — Machine Learning Project
 
-Este proyecto implementa un modelo de **Machine Learning** para predecir el abandono de clientes (*churn*) en una empresa de telecomunicaciones. Se desarrolla un pipeline completo, desde el análisis exploratorio hasta la evaluación final del modelo, incorporando buenas prácticas profesionales como validación cruzada, pruebas de cordura y optimización del threshold.
+Este proyecto implementa un modelo de **Machine Learning** para predecir el abandono de clientes (*churn*) en una empresa de telecomunicaciones. Se desarrolla un pipeline completo, desde el análisis exploratorio hasta la evaluación final del modelo, incorporando buenas prácticas profesionales como validación cruzada, pruebas de cordura y optimización del threshold. Proyecto educativo personal.
 
 El objetivo principal del proyecto fue superar un **AUC-ROC ≥ 0.88** en el conjunto de prueba.  
 El modelo final alcanzó un **AUC-ROC de 0.903**.
